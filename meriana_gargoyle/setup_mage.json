@@ -6,6 +6,7 @@
 },
 "script_options": {
     "hours_leave": [9],
+    "skill_train":"magic",
     "hunt_down": false
 },
 "containers": 
